@@ -1,2 +1,2 @@
 # magicks
-magicks is an app ecosystem.
+magicks is an app ecosystem. Coming Soon!
